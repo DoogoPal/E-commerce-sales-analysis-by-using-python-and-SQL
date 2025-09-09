@@ -16,6 +16,7 @@ Python (Pandas, Matplotlib, Seaborn) – Data analysis & visualization
 Jupyter Notebook – Reporting & documentation
 
 **Project Structure**
+
 ├── data/               # Dataset files  
 ├── notebooks/          # Python Jupyter notebooks  
 ├── sql_queries/        # SQL query scripts  
